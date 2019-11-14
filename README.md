@@ -10,7 +10,7 @@ heliuphy 的个人博客
 
 ### 最新
 
-* [怎么提取chrome浏览器扩展的crx文件？](https://www.stdstring.com/articles/2019/10/29/1572348691596.html)
+* [Java 错误：找不到或无法加载主类，当源文件中含有包名时](https://www.stdstring.com/articles/2019/11/14/1573719092582.html)
 * [我在 GitHub 上的开源项目](https://www.stdstring.com/my-github-repos)
 * [世界，你好！](https://www.stdstring.com/hello-solo)
 
